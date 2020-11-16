@@ -1,3 +1,3 @@
 import kevinbu as kb
 
-test test
+kb 2*5
